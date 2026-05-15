@@ -1,7 +1,7 @@
 # Can Google Search Trends Predict Stock Market Direction?
 ### A Machine Learning Approach to Weekly S&P 500 Forecasting
 
-MSc thesis — Data Science & Business Administration, Copenhagen Business School (2025)
+MSc thesis — Data Science & Business Administration, Copenhagen Business School (2026)
 
 ---
 
