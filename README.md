@@ -33,22 +33,6 @@ feature specifications.
 
 ---
 
-## Repository Structure
-├── THESIS_cleaned.ipynb        # Main analysis notebook
-├── data/
-│   ├── trends_weekly_2004_2017.parquet   # Google Trends (collected via Pytrends)
-│   ├── GDP.csv                            # FRED macroeconomic data
-│   ├── UNRATE.csv
-│   ├── FEDFUNDS.csv
-│   ├── CPIAUCSL.csv
-│   └── daily_macro/
-│       ├── VIXCLS.csv
-│       ├── DGS10.csv
-│       ├── DGS2.csv
-│       ├── DBAA.csv
-│       └── DFF.csv
-
----
 
 ## Final Feature Set (Specification 1)
 
